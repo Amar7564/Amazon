@@ -16,5 +16,5 @@ spec:
       - name: amazon
         image: amarsatish/amazon
         ports:
-        - containerPort: 4000  # Port your application listens on
+        - containerPort: 3000  # Port your application listens on
 
